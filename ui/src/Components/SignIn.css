@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+  width: 100%;
+  background-image: url('./bg-img.png');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+.signin-container {
+  padding: 40px;
+  background-color: rgba(248, 240, 240, 0.871);
+  max-width: 400px;
+  margin: 5% auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #aaa;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-attachment: fixed;
+}
