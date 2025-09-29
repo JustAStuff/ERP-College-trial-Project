@@ -1,5 +1,4 @@
 # College ERP System
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/JustAStuff/ERP-College-trial-Project)
 
 This repository contains a full-stack web application designed as a trial project for a college Enterprise Resource Planning (ERP) system. It features a React frontend and a Spring Boot backend, enabling students to manage their academic and personal information.
 
